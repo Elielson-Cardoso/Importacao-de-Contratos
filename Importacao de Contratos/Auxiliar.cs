@@ -1,8 +1,4 @@
-﻿/* Author: Programador Anônimo
- * Company: Plasútil - Indústria e Comércio de Plásticos Ltda.
- * Date: May/2005
- */
-
+﻿
 using System;
 using System.Collections;
 using System.Collections.Generic;
